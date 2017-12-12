@@ -1,0 +1,2 @@
+# MVCProject
+This is a website I made following the Model-View-Controller pattern. The theme of website is student, instructor interaction. The website allows user to create an account and login. It also sets up their profile where they can modify their information. Instructors can create a class and view the student votes. Students can join a class and vote whether they understand the topics of the class or not.
